@@ -1,10 +1,16 @@
+:root {
+  --fondo: #dbdad5;
+  --texto: #00192f;
+}
+
 body {
-  background-color: rgb(255, 255, 165);
   font-family: "Montserrat", sans-serif;
+  background-color: var(--fondo);
+  color: var(--texto);
 }
 
 .image {
-  border: 5px solid green;
+  border: 5px solid #806375;
   border-radius: 10px;
   height: 400px;
 }
