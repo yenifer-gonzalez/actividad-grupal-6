@@ -16,6 +16,7 @@ body {
 }
 
 .link-button {
+<<<<<<< HEAD
   text-decoration: none;
   color: black;
   border: 1px solid gray;
@@ -24,3 +25,18 @@ body {
   border-radius: 5px;
   box-shadow: 2px 3px #888888;
 }
+=======
+    text-decoration: none;
+    color: black;
+    border: 1px solid gray;
+    background-color: #f2f2f2;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 3px #888888;
+}
+
+.link-button:hover{
+    background-color:rgb(217, 124, 217);
+    font-size: 107%;
+}
+>>>>>>> 7c11a6873d6189ad16c42cb45d130d70e02a2098
